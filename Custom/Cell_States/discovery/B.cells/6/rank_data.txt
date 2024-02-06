@@ -1,0 +1,2 @@
+"Cophenetic"	"Silhouette_s"	"Silhouette_g"	"Silhouette_chc"	"Silhouette_con"	"Dispersion"	"n_clusters"
+0.934547748488785	0.568658966577458	0.394567565622248	0.68480662423928	0.68480662423928	0.805538254355694	6
